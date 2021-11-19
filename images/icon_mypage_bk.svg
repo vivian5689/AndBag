@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.5" height="21.453" viewBox="0 0 19.5 21.453">
+  <g id="그룹_1802" data-name="그룹 1802" transform="translate(-1731.5 -39)">
+    <g id="벡터_고급_개체" data-name="벡터 고급 개체" transform="translate(0 -9.023)">
+      <g id="벡터_고급_개체-2" data-name="벡터 고급 개체" transform="translate(1374.614 -286.766)">
+        <ellipse id="타원_3" data-name="타원 3" cx="4" cy="4.092" rx="4" ry="4.092" transform="translate(362.386 336.789)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="패스_5" data-name="패스 5" d="M375.386,354.7a7.062,7.062,0,0,0-6.914-7.162H364.3a7.062,7.062,0,0,0-6.914,7.162v1.037h18Z" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <path id="Color_Overlay" data-name="Color Overlay" d="M1732,68.977V67.939a7.061,7.061,0,0,1,6.914-7.161h4.172A7.062,7.062,0,0,1,1750,67.939v1.038Zm5-14.861a4,4,0,1,1,4,4.092A4.047,4.047,0,0,1,1737,54.116Z" fill="none" stroke="#000" stroke-width="1"/>
+    </g>
+    <circle id="타원_67" data-name="타원 67" cx="2" cy="2" r="2" transform="translate(1747 39)" fill="#979797"/>
+  </g>
+</svg>

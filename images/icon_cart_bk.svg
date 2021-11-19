@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="icon_cart_bk" transform="translate(20521 21222)">
+    <g id="사각형_1" data-name="사각형 1" transform="translate(-20521 -21216)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="1">
+      <rect width="20" height="14" stroke="none"/>
+      <rect x="0.5" y="0.5" width="19" height="13" fill="none"/>
+    </g>
+    <g id="사각형_777" data-name="사각형 777" transform="translate(-20515 -21222)" fill="none" stroke="#000" stroke-width="1">
+      <path d="M4,0H4A4,4,0,0,1,8,4V7A0,0,0,0,1,8,7H0A0,0,0,0,1,0,7V4A4,4,0,0,1,4,0Z" stroke="none"/>
+      <path d="M4,.5H4A3.5,3.5,0,0,1,7.5,4V6.316a.184.184,0,0,1-.184.184H.684A.184.184,0,0,1,.5,6.316V4A3.5,3.5,0,0,1,4,.5Z" fill="none"/>
+    </g>
+  </g>
+</svg>
